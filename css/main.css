@@ -1,0 +1,73 @@
+body{font-family: 'Text Me One', sans-serif;}
+/*menu principal*/
+.menu ul{list-style-type:none;}
+.menu li{display:inline-block;margin-left:20px;}
+.menu a{color:#03639D;text-decoration:none;}
+
+/*colores secundarios*/
+.white{color:#fff!important;}
+/*flechas de carrosel*/
+.left-arrow{
+background-color:#03639D;
+height:50px;
+width:50px;
+top:50%;
+}
+.right-arrow{
+background-color:#03639D;
+height:50px;
+width:50px;
+top:50%;
+}
+/*button only */
+.bthe-outline-blue
+{
+display: inline-block;
+font-weight: 400;
+color:#fff;
+text-align: center;
+text-decoration:none;
+white-space: nowrap;
+vertical-align: middle;
+-webkit-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+border: .2rem solid #03639D;
+padding: .375rem .75rem;
+font-size: 1rem;
+line-height: 1.5;
+border-radius: 0.0rem;
+transition: color .15s 
+}
+.bthe-outline-blue:hover
+{
+background-color:white;
+color:#03639D;
+text-decoration:none;
+transition:.2s; 
+}
+/*font-size*/
+.f8{font-size:8px;}
+.f9{font-size:9px;}
+.f10{font-size:10px;}
+.f11{font-size:11px;}
+.f12{font-size:12px;}
+.f13{font-size:13px;}
+.f14{font-size:14px;}
+.f15{font-size:15px;}
+.f16{font-size:16px;}
+.f17{font-size:17px;}
+.f18{font-size:18px;}
+.f19{font-size:19px;}
+.f20{font-size:20px;}
+.f21{font-size:21px;}
+.f22{font-size:22px;}
+.f23{font-size:23px;}
+.f24{font-size:24px;}
+.f25{font-size:25px;}
+.f26{font-size:26px;}
+.f27{font-size:27px;}
+.f30{font-size:30px;}
+.f35{font-size:35px;}
+.f60{font-size:60px;}
